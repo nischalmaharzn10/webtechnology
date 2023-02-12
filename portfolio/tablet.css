@@ -1,0 +1,26 @@
+.main ul{
+    flex-wrap:  wrap;
+    justify-content:center;
+}
+
+.info{
+       font-size: 2.5rem ;
+}
+
+.about{
+       flex-direction: column;
+    align-items: center;
+   
+}
+.edu{
+       width: 475px;
+       height: 300px;
+   
+}
+.skill{
+       text-align: center;
+}
+   /* contact*/
+.contact{
+       width:55%
+}
